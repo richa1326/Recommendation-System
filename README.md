@@ -12,7 +12,7 @@ A sample CSV dataset of user-item ratings is used.
 
 ## How to Run
 
-python main.py
+python recommendation_system.py
 
 ## Output
 Recommends items for a given user based on similar users.
