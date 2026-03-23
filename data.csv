@@ -1,0 +1,12 @@
+user,item,rating
+Alice,Item1,5
+Alice,Item2,3
+Alice,Item3,4
+Bob,Item1,3
+Bob,Item2,4
+Bob,Item4,2
+Charlie,Item1,4
+Charlie,Item3,5
+Charlie,Item4,3
+David,Item2,5
+David,Item3,3
